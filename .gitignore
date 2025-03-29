@@ -1,0 +1,5 @@
+*.mp4
+*.pyc
+
+dataset/fake/*.png
+dataset/real/*.png
